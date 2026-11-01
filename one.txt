@@ -1,1 +1,3 @@
-Hello Guys, I am just revising git 
+Hello Guys, I am just revising git here.
+
+Just Checking the working of reset
